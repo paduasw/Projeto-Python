@@ -1,2 +1,2 @@
 # Projeto Python
- Primeiro repositório, amém
+ Primeiro repositório, amém!
